@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app-react/static/css/main.91d29b4b.chunk.css",
+    "main.css": "/app-react/static/css/main.87add82e.chunk.css",
     "main.js": "/app-react/static/js/main.017b3e59.chunk.js",
     "main.js.map": "/app-react/static/js/main.017b3e59.chunk.js.map",
     "runtime-main.js": "/app-react/static/js/runtime-main.b82a6044.js",
@@ -8,9 +8,9 @@
     "static/js/2.1b05903f.chunk.js": "/app-react/static/js/2.1b05903f.chunk.js",
     "static/js/2.1b05903f.chunk.js.map": "/app-react/static/js/2.1b05903f.chunk.js.map",
     "index.html": "/app-react/index.html",
-    "precache-manifest.e8a114c6a3839fb65b2f5963f3f4d7ee.js": "/app-react/precache-manifest.e8a114c6a3839fb65b2f5963f3f4d7ee.js",
+    "precache-manifest.c2bf514daf03f4aab40c8ce5f71375e0.js": "/app-react/precache-manifest.c2bf514daf03f4aab40c8ce5f71375e0.js",
     "service-worker.js": "/app-react/service-worker.js",
-    "static/css/main.91d29b4b.chunk.css.map": "/app-react/static/css/main.91d29b4b.chunk.css.map",
+    "static/css/main.87add82e.chunk.css.map": "/app-react/static/css/main.87add82e.chunk.css.map",
     "static/js/2.1b05903f.chunk.js.LICENSE.txt": "/app-react/static/js/2.1b05903f.chunk.js.LICENSE.txt",
     "static/media/google.png": "/app-react/static/media/google.22ec6ab3.png",
     "static/media/task.png": "/app-react/static/media/task.de11d778.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b82a6044.js",
     "static/js/2.1b05903f.chunk.js",
-    "static/css/main.91d29b4b.chunk.css",
+    "static/css/main.87add82e.chunk.css",
     "static/js/main.017b3e59.chunk.js"
   ]
 }
